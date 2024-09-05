@@ -1,7 +1,5 @@
 ## Hi there 👋
 Hey there, I am Shlesha, a curious mind based in Bengluru.
-<!--
-**ShleshaSrivastava/ShleshaSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning Springboot and React
 - 👯 I’m looking to collaborate on development projects
@@ -14,3 +12,6 @@ Hey there, I am Shlesha, a curious mind based in Bengluru.
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+<!--
+**ShleshaSrivastava/ShleshaSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
